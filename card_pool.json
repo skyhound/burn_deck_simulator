@@ -1,0 +1,14 @@
+{
+  "Mountain": {
+    "supertype": "Basic",
+    "type": "Land",
+    "subtype": "Mountain",
+    "mc": null
+  },
+  "Lightning Bolt": {
+    "supertype": null,
+    "type": "Instant",
+    "subtype": null,
+    "mc": "R"
+  }
+}
